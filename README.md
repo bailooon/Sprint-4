@@ -73,6 +73,6 @@ Este projeto foi desenvolvido pela equipe **Eurofarma Innovation Hub** para o **
 **Equipe:**
 * Matheus Bailon - 98656
 * Kaique Aleixo - 98627
-* Thomas Abner - \[Não informado]
+* Thomas Abner - 550347
 * Henrique Vieira de Oliveira - 558777
 * Ygor Carneiro - 88170
